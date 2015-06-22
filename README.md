@@ -2,7 +2,7 @@
 Librairie Python relative aux transports publics parisiens (métro, Vélib), utilisée dans le cadre d'un projet perso de domotique.
 Les services implémentés utilisent la technique de web scraping via la librairie [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/).
 
-## Disponibilité de Vélib à proximité
+## Disponibilité de Vélib à proximité d'une adresse
 ### Prérequis
 
 * Installation de [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) :
