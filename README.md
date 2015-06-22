@@ -20,12 +20,10 @@ pip install geopy
 * Vélibs disponibles autour du **10 rue d'Astorg** dans un rayon de 270 mètres (valeur par défaut)
 
 ```
-$ ./dispo_velib.py -a "10 rue d'astorg, paris" -r 350
+$ ./dispo_velib.py -a "10 rue d'astorg, paris"
 {
-    "MIROMESNIL": 32,
-    "PLACE ST AUGUSTIN": 18,
-    "ROQUEPINE": 36,
-    "SQUARE LOUIS XVI": 19
+    "PLACE ST AUGUSTIN": 19,
+    "ROQUEPINE": 43
 }
 ```
 
